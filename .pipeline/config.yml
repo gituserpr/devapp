@@ -10,7 +10,7 @@ stages:
   Additional Unit Tests:
     npmExecuteScripts: false
   Acceptance:
-    cloudFoundryDeploy: false
+    cloudFoundryDeploy: true
     cfApiEndpoint: "https://api.cf.eu20-001.hana.ondemand.com"
     cfOrg: "amirdev-azure"
     cfSpace: "amir-dev-azure"
