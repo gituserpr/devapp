@@ -1,2 +1,2 @@
 # devapp - devapp
-> MyAS Business Application
+> My Business Application
